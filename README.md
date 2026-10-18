@@ -1,17 +1,17 @@
-# Python Learning 🐍
+# Python Learning 
 
 Welcome to my Python learning repository!
 
 I'm learning Python and using this repository to practice coding, understand programming concepts, and track my progress as a beginner.
 
-## 🎯 Goals
+##  Goals
 
 - Learn Python fundamentals.
 - Practice writing clean and readable code.
 - Solve programming problems.
 - Build small projects as I improve.
 
-## 📚 Topics
+##  Topics
 
 - Python basics
 - Variables and data types
@@ -23,7 +23,7 @@ I'm learning Python and using this repository to practice coding, understand pro
 
 *Topics will be added as I learn them.*
 
-## 💻 How to Run
+##  How to Run
 
 1. Install Python 3 on your computer.
 2. Clone this repository:
@@ -41,7 +41,7 @@ I'm learning Python and using this repository to practice coding, understand pro
 
    Replace `filename.py` with the name of your Python file.
 
-## 🚀 My Journey
+##  My Journey
 
 This repository documents my progress as I learn Python, one program at a time.
 
